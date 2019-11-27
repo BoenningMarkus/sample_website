@@ -1,0 +1,22 @@
+
+.nav-menu {
+    text-align: center
+}
+.header {
+   text-align: center;width: 800px; margin: 20px auto; padding: 30px; background-color: grey;
+}
+.standard-block {
+    width: 800px; margin: 20px auto; padding: 30px; background-color: grey;
+}
+
+.image-style {
+display: block; margin: 0 auto; padding: 30px; background-color: grey;
+}
+
+.blockquote {
+font-style: italic; font-size: 20px;
+}
+
+.highlight-quote {
+font-size: normal; font-size: 24px; font-weight: bold; color:yellowgreen}
+
